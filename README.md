@@ -9,3 +9,4 @@ FabricaAbstrata — interface que declara a família de produtos a criar.
 FabricaGraduacao, FabricaPosGraduacao — fábricas concretas.
 Aluno — cliente, recebe uma fábrica e obtém seus documentos sem saber a classe concreta.
 Main — demonstração de uso.
+<img width="809" height="623" alt="Captura de tela 2026-09-25 193728" src="https://github.com/user-attachments/assets/cc5ecf8b-b2c0-4d94-9633-f2246c4e9ad6" />
